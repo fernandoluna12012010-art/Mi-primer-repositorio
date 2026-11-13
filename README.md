@@ -10,4 +10,3 @@ Git.
 
 ¿Qué espero aprender al utilizar repositorios? Yo espero aprender conceptos esenciales, asi como a 
 crearespacions de trabajao (Locales y remotos) donde se almacena todo el historial y los archivos de mis proyectos.
-
